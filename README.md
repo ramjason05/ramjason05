@@ -12,11 +12,16 @@ I have a passion for music which is why my side projects focus around either giv
 I found myself getting more involved with data analytics due to the nature of recommendation systems, I am a researcher for Machine Learning regarding biotech and EEG data acquisition, 
 and I am open to explore new concepts that I find interesting 💭
 
-My Tech Stack
+## My Tech Stack
 ________________________________________________________
-[![Python](https://freesvg.org/387)][JavaScript][Pytorch][CSS][HTML5]
 
-Fun Facts!
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+
+## Fun Facts!
 ________________________________________________________
 1. I know how to play Electrical Guitar, Acoustic Guitar, and Bass Guitar and have recently picked up Dj'ing as a hobby 🎸
 2. I love to workout almost everyday, if not then do something physical like a run in the morning 🌅
