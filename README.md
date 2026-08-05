@@ -14,7 +14,8 @@ and I am open to explore new concepts that I find interesting 💭
 
 My Tech Stack
 ________________________________________________________
-[!Python][JavaScript][Pytorch][CSS][HTML5]
+[![Python](https://freesvg.org/387)][JavaScript][Pytorch][CSS][HTML5]
+
 Fun Facts!
 ________________________________________________________
 1. I know how to play Electrical Guitar, Acoustic Guitar, and Bass Guitar and have recently picked up Dj'ing as a hobby 🎸
